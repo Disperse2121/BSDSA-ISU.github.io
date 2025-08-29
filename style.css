@@ -1,3 +1,45 @@
-body {
+ul {
     background-color: red;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+nav li {
+  margin: 0;
+}
+
+nav a {
+  display: block;
+  padding: 14px 20px;
+  color: black;
+  text-decoration: none;
+}
+
+.course {
+  display: flex;
+  width: auto;
+  height: auto;
+  align-items: center;
+  justify-content: center;
+  padding: 9;
+  border: 2px solid black;
+  border-color: black;
+}
+
+
+.offer {
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  height: auto;
+  padding: 9;
+  border: 2px solid black;
+  border-color: black;
 }

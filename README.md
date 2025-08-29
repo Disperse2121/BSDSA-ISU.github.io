@@ -6,7 +6,7 @@ I'm broke and don't have a money to buy a dedicated website server so here you g
 
 ## me broke
 
-![Alt Text](https://media.tenor.com/5tvr3R-VgtEAAAAi/kyoko-toshino.gif)
+![Alt Text](./kyoko-toshino.gif)
 
 ## contributing
 
@@ -34,6 +34,12 @@ git clone "https://github.com/BSDSA-ISU/BSDSA-ISU.github.io"
 # commit and push 
 git commit -m "message"
 git push --set-upstream 'remote' 'branch 
+```
+
+### joining this group
+
+```python
+Just add your username in joining.txt
 ```
 
 #### current contributors
