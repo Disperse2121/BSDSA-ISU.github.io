@@ -2,6 +2,10 @@ ul {
     background-color: red;
 }
 
+h2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 nav ul {
   list-style-type: none;
   margin: 0;
