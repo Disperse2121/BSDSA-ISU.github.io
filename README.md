@@ -1,12 +1,8 @@
 # hello
 
-I'm broke and don't have a money to buy a dedicated website server so here you go..
+I'm broke and I don't have a money to buy a dedicated website server so here you go..
 
 <https://BSDSA-ISU.github.io/>
-
-## me broke
-
-![Alt Text](./kyoko-toshino.gif)
 
 ## contributing
 
@@ -16,7 +12,7 @@ I'm broke and don't have a money to buy a dedicated website server so here you g
 # fork the repository
 
 # clone it
-git clone "link"
+git clone "like of the repo forked"
 
 # commit and push
 git commit -m "message"
@@ -45,4 +41,8 @@ Just add your username in joining.txt
 #### current contributors
 
 1. AlieeLinux
-2. disperse2863 (not from ISU)
+2. disperse2121(Not from ISU)
+
+## me broke
+
+![Alt Text](./kyoko-toshino.gif)
