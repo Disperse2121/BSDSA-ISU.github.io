@@ -1,38 +1,48 @@
 # hello
 
+## welcome to the Supposedly homepage of BSDSA in github
+
 I'm broke and I don't have a money to buy a dedicated website server so here you go..
 
 <https://BSDSA-ISU.github.io/>
 
 ## contributing
 
-- ### if you are not a member use this
+
+### If you are **not** a member of this repository, follow these steps:
 
 ```shell
-# fork the repository
+# 1. Fork the repository (on GitHub)
 
-# clone it
-git clone "like of the repo forked"
+# 2. Clone your fork
+git clone <link-to-your-fork>
 
-# commit and push
-git commit -m "message"
-git push --set-upstream 'remote' 'branch 
+# 3. Make your changes, then stage and commit
+git add .
+git commit -m "Your descriptive commit message"
 
-# create a pull request and done 
+# 4. Push your branch to your fork
+git push --set-upstream origin <branch-name>
+
+# 5. Open a Pull Request from your forked repo to the original repo
 ```
 
-- ### If you are a member do this instead
+### If you are a member of this repository. do this instead
 
 ```shell
-# clone
-git clone "https://github.com/BSDSA-ISU/BSDSA-ISU.github.io"
+# 1. Clone the repository directly
+git clone https://github.com/BSDSA-ISU/BSDSA-ISU.github.io
 
-# commit and push 
-git commit -m "message"
-git push --set-upstream 'remote' 'branch 
+# 2. Make your changes, then stage and commit
+git add .
+git commit -m "Your descriptive commit message"
+
+# 3. Push your branch to the repo
+git push --set-upstream origin <branch-name>
+
 ```
 
-### joining this group
+- ### joining this group
 
 ```python
 Just add your username in joining.txt
