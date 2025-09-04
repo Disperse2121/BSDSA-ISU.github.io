@@ -8,8 +8,7 @@ I'm broke and I don't have a money to buy a dedicated website server so here you
 
 ## contributing
 
-
-### If you are **not** a member of this repository, follow these steps:
+### If you are **not** a member of this repository, follow these steps
 
 ```shell
 # 1. Fork the repository (on GitHub)
